@@ -33,3 +33,5 @@ Delete produto: http://localhost:3000/:id
 
 <br>
 
+- Create POST: http://localhost:3000
+- Corpo
