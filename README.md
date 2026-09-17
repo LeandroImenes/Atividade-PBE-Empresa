@@ -68,3 +68,25 @@ Delete produto: http://localhost:3000/:id
 ## Exemplos de requisições
 - Create POST: http://localhost:3000
 - Corpo
+```
+"id": 1,
+"item":"Computador",
+"local":"Laboratório de mídia e tecnologias",
+"dataRegistro":"2026-05-22",
+"valor":2000.00,
+"patrimonio":"PAT-00125"
+```
+- Resposta
+```
+"id": 1,
+"item":"Computador",
+"local":"Laboratório de mídia e tecnologias",
+"dataRegistro":"2026-05-22"
+"valor":2000.00,
+"patrimonio":"PAT-00125"
+"lancamento":"2026"
+```
+- Update PUT: http://localhost:3000/2
+```
+```
+- Resposta
