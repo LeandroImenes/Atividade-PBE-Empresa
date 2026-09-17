@@ -1,6 +1,11 @@
 # API Empresa XXX
 Atividade realizada na matéria de PBE (Programação Back-End).
 
+inventario.json
+``` JSON
+
+```
+
 <br>
 
 ## Descrição
