@@ -1,5 +1,5 @@
 const express = require("express")
-const produtos = require("./dados.json")
+const produtos = require("./inventario.json")
 
 const mostrarProdutos = (req, res) => {
     res.send(produtos)
