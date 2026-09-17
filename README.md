@@ -55,13 +55,16 @@ Abra um compilador qualquer (VS Code é o recomendado), crie um terminal em Git 
 <br>
 
 ## Rotas
+```
 Post produto: http://localhost:3000
 Get produto: http://localhost:3000
 Get produto por id: http://localhost:3000/id
 Put produto: http://localhost:3000/:id
 Delete produto: http://localhost:3000/:id
+```
 
 <br>
 
+## Exemplos de requisições
 - Create POST: http://localhost:3000
 - Corpo
