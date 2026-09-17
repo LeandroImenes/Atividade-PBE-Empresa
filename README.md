@@ -78,18 +78,33 @@ Delete produto: http://localhost:3000/:id
 ```
 - Resposta
 ```
-"id": 1,
-"item":"Computador",
-"local":"Laboratório de mídia e tecnologias",
-"dataRegistro":"2026-05-22"
-"valor":2000.00,
-"patrimonio":"PAT-00125"
-"lancamento":"2026"
+"id": 4,
+"item":"Máquina de café",
+"local":"Área de lazer",
+"dataRegistro":"2025-04-02"
+"valor":500.00,
+"patrimonio":"PAT-00128"
+"lancamento":"2025"
 ```
 - Update PUT: http://localhost:3000/2
 ```
+"id": 1,
+"item":"Computador",
+"local":"Laboratório de mídia e tecnologias",
+"dataRegistro":"2026-05-22",
+"valor":2000.00,
+"patrimonio":"PAT-00125"
 ```
 - Resposta
-# sesi_pbe1_aula5_inventario_full_mvc_2026
-# sesi_pbe1_aula5_inventario_full_mvc_2026
-# sesi_pbe1_aula5_inventario_full_mvc_2026
+```
+"id": 1,
+"item":"Ar condicionado",
+"local":"Laboratório de mídia e tecnologias",
+"dataRegistro":"2026-06-07",
+"valor":1500.00,
+"patrimonio":"PAT-00125"
+```
+<img src="fotos/post.png">
+<img src="fotos/get.png">
+<img src="fotos/put.png">
+<img src="fotos/delete.png">
